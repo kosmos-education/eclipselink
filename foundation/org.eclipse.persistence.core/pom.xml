@@ -21,12 +21,13 @@
     <name>EclipseLink Core</name>
     <groupId>org.eclipse.persistence</groupId>
     <artifactId>org.eclipse.persistence.core</artifactId>
+    <version>3.0.3-kosmos-fix</version>
     <packaging>jar</packaging>
 
     <parent>
         <groupId>org.eclipse.persistence</groupId>
         <artifactId>org.eclipse.persistence.parent</artifactId>
-        <version>3.0.3-kosmos-fix</version>
+        <version>3.0.3</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
 
